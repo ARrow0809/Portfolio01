@@ -28,9 +28,9 @@ const imageFilePaths = [
   'images/thumbnail/youtubeサムネ集_サムネ.jpg',
   // FANZA作品
   'images/fanza/01_vol001_パッケージ画像.jpg',
-  'images/fanza/02_BukkakeMania03_パッケージ画像.jpg',
-  'images/fanza/03_新BukkakeMania_パッケージ画像.jpg',
-  'images/fanza/04_新BukkakeMania02_パッケージ画像.jpg',
+  'images/fanza/02_新BukkakeMania_パッケージ画像.jpg',
+  'images/fanza/03_新BukkakeMania02_パッケージ画像.jpg',
+  'images/fanza/04_BukkakeMania03_パッケージ画像.jpg',
   'images/fanza/05_ぶっかけ祭り_パッケージ画像.jpg',
 ];
 
