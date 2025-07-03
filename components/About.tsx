@@ -24,7 +24,7 @@ const About: React.FC = () => {
               1,000件以上の案件を通じて培った経験で、あなたのアイデアを収益に変えるお手伝いをします。
             </p>
             <p className="text-lg leading-relaxed">
-              Kindle出版、NVNG作品、YouTubeサムネイルなど、幅広いジャンルでの制作実績があります。
+            グラフィックデザインをはじめ、Kindle出版、YouTubeサムネイルなど、幅広いジャンルでの制作実績があります。
               AIツールを活用した効率的なワークフローで、高品質な作品を短期間で制作いたします。
             </p>
             <div className="grid grid-cols-2 gap-4 mt-8 max-w-md mx-auto">
